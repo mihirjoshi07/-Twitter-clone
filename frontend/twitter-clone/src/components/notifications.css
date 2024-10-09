@@ -1,0 +1,5 @@
+/* MyComponent.css */
+@import 'mdb-react-ui-kit/dist/css/mdb.min.css';
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* You can also add component-specific styles here */
